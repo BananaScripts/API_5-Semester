@@ -1,3 +1,4 @@
+
 <br id="inicio">
 
 <h1 align="center">API 2025.1 - Banana Script</h1>
@@ -20,7 +21,27 @@ Nós somos estudantes da <a href='https://fatecsjc-prd.azurewebsites.net/'>FATEC
 
 ### Sobre o projeto:
 
+Atualmente, empresas de tecnologia enfrentam desafios na disseminação de conhecimento sobre 
+seus próprios produtos, sistemas e processos internos. Muitas vezes, usuários internos e clientes 
+precisam de suporte para entender funcionalidades de sistemas, regras de negócio ou fluxos 
+operacionais. No entanto, centralizar esse conhecimento em poucos especialistas pode gerar 
+gargalos e atrasos nas respostas.
+
+Pensando nisso, este projeto tem como objetivo o desenvolvimento de uma plataforma de criação 
+e gerenciamento de agentes de Inteligência Artificial. A ferramenta permitirá que administradores 
+criem múltiplos agentes virtuais personalizados, treinados para responder dúvidas específicas sobre 
+diferentes sistemas e processos internos da empresa. Além disso, a solução deve contar com um 
+sistema de permissões, onde cada usuário terá acesso apenas aos agentes aos quais foi autorizado.
+
+Os alunos deverão desenvolver um aplicativo móvel que possibilite a interação com esses agentes 
+por meio de um chat inteligente, garantindo que cada usuário visualize apenas as conversas e 
+respostas dos agentes aos quais possui permissão de acesso. A aplicação deve ser integrada a um 
+banco de dados na nuvem para armazenamento das interações e permitir o gerenciamento 
+eficiente dos agentes e permissões.
+
 ### Apresentação do problema:
+
+#### Desenvolvimento de uma Plataforma Móvel para Criação e Gerenciamento de Agentes de Inteligência Artificial para Atendimento Interno
 
 <br>
 
@@ -39,17 +60,31 @@ Nós somos estudantes da <a href='https://fatecsjc-prd.azurewebsites.net/'>FATEC
  
  ### Ferramentas e Tecnologias⚒️
  
- <p align="center"> 
-<img src="https://img.shields.io/badge/Figma-5751D3?style=for-the-badge&logo=figma&logoColor=EDF0F9"/>
-<img src="https://img.shields.io/badge/CSS3-5751D3?style=for-the-badge&logo=css3&logoColor=EDF0F9"/> 
-<img src="https://img.shields.io/badge/HTML5-5751D3?style=for-the-badge&logo=html5&logoColor=EDF0F9"/> 
-<img src="https://img.shields.io/badge/React-5751D3?style=for-the-badge&logo=react&logoColor=EDF0F9"/> 
-<br> 
-<img src="https://img.shields.io/badge/JavaScript-5751D3?style=for-the-badge&logo=javascript&logoColor=EDF0F9"/>
-<img src="https://img.shields.io/badge/Node.js-5751D3?style=for-the-badge&logo=nodedotjs&logoColor=EDF0F9"/>
-<img src="https://img.shields.io/badge/TypeScript-5751D3?style=for-the-badge&logo=typescript&logoColor=EDF0F9"/> 
-<img src="https://img.shields.io/badge/MySQL-5751D3?style=for-the-badge&logo=prisma&logoColor=EDF0F9"/>
-</p> 
+<p align="center">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+ <img src="https://img.shields.io/badge/AI-4C8BF5?style=for-the-badge&logo=robot&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
+
+<br/>
+
+
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> 
+
+<br/>
+
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
   
 <br>
 
@@ -59,12 +94,32 @@ Nós somos estudantes da <a href='https://fatecsjc-prd.azurewebsites.net/'>FATEC
 
 Período | Data | Status  |
 --------------|------| --------|
-Sprint 01 | 10.03.2025 - 30.03.2025 |  |
-Sprint Review | 31.03.2025 - 06.04.2025 | |
-Sprint 02 | 07.04.2025 - 27.04.2025 |  |
-Sprint Review | 28.04.2025 - 04.05.2025 |  |
-Sprint 03 | 05.05.2025 - 26.05.2025 |  |
+Kickoff | 25.02.2025 - 07.03.2025 | Em Andamento |
+Sprint 01 | 10.03.2025 - 30.03.2025 | Não Inciado |
+Sprint Review | 31.03.2025 - 04.04.2025 | Não Iniciado |
+Sprint 02 | 07.04.2025 - 27.04.2025 | Não Iniciado |
+Sprint Review | 28.04.2025 - 02.05.2025 | Não Iniciado |
+Sprint 03 | 05.05.2025 - 25.05.2025 | Não Iniciado |
+Feira de Soluções | 29.05.2025 | Não Iniciado |
 
+
+## MVPs (Minimum Viable Product)
+
+#### Sprint 01 | 10.03 - 30.03
+
+Desenvolvimento da Aplicação Móvel com Chat (Sem os Agentes Implementados)
+
+<br/>
+
+#### Sprint 02 | 07.04 - 27.04
+
+Desenvolvimento e Implementação do Sistema de Criação e Gerenciamento dos Agentes de IA
+
+<br/>
+
+#### Sprint 03 | 05.05 - 25.05
+
+Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agentes de IA 
 
 <br>
 
@@ -76,46 +131,99 @@ Sprint 03 | 05.05.2025 - 26.05.2025 |  |
 
 | **ID** | **Requisitos Funcionais**                                                           | **Prioridade** |
 |--------|-------------------------------------------------------------------------------------|----------------|
-|  |  |  |
+| RF_1 | Permitir o cadastro de agentes de IA com conteúdos personalizados (ex.: um agente para responder dúvidas sobre um sistema de RH, outro para um ERP, etc.) | 2 |
+| RF_2 | Implementar um sistema de chat, onde os usuários possam interagir com os agentes para esclarecer dúvidas | 1 |
+| RF_3 | Criar um sistema de permissões, onde o administrador possa definir quais agentes cada usuário pode acessar | 1 |
+| RF_4 | Armazenar o histórico de interações entre usuários e agentes em um banco de dados na nuvem | 3 |
+| RF_5 | Desenvolver um dashboard administrativo para gerenciar os agentes, permissões e visualizar estatísticas de uso | 3 |
 
 
 ### Requisitos Não Funcionais
 
-| **ID** | **Requisitos Não Funcionais**                                          |
+| **ID** | **Requisitos Não Funcionais**                                         |
 |--------|-----------------------------------------------------------------------|
-|  |  |
+| RNF_1 | Utilizar ReactNative ou Flutter para o desenvolvimento do aplicativo móvel. |
+| RNF_2 | Implementar a persistência de dados em um banco de dados compatível (MySQL, MongoDB, Oracle, etc.). |
+| RNF_3 | Assegurar um tempo de resposta adequado para as interações no chat. |
+| RNF_4 | Criar uma documentação técnica com instruções de instalação, uso e estrutura da API. |
+| RNF_5 | Proporcionar uma experiência fluida ao usuário, com interações naturais e rápidas. |
+| RNF_6 | Possuir uma interface intuitiva e acessível. |
 
+<br/>
 
 ## Product Backlog 📖
 
-| **Requisito** | **ID** | **Item**                                                                                               | **Prioridade** |
+
+| **ID** | **Requsitos** | **Item**                                                                                               | **Prioridade** |
 |---------------|--------|--------------------------------------------------------------------------------------------------------|----------------|
-|  |  |  |  |
+| BCK_1 | RNF_1, RNF_5, RNF_6 | Estrutura do Aplicativo Móvel | 1 |
+| BCK_2 | RNF_2 | Implementação do Aplicativo e seus Serviços em Nuvem | 1 |
+| BCK_3 | RNF_4 | Definição e Aplicação dos Padrões de DevOps Definidos | 1 | 
+| BCK_4 | RF_2 | Sistema de Chat Inteligente entre um Usuário e um Agente de IA | 1 |
+| BCK_5 | RF_5 | Sistema de Gerenciamento de Usuários  | 1 |
+| BCK_6 | RF_5 | Sistema de Login e Autenticação | 1 |
+| BCK_7 | RF_5 | Sistema de Gerenciamento de Agentes de IA | 2 |
+| BCK_8 | RF_1, RNF_3 | Sistema de Configuração e Criação de Agentes de IA | 2 |
+| BCK_9 | RF_3 | Sistema de Permissão de Usuários e Agentes de IA | 2 |
+| BCK_10 | RF_4 | Sistema de Histórico dos Chats | 3 |
+| BCK_11 | RF_5 | SIstema de Dashboards dos Chats | 3 |
 
-
-## Tarefas das Sprints
-
-| **ID** | **Descrição**                                                                                             | **Sprint** 
-|--------|-----------------------------------------------------------------------------------------------------------|------------|
-|  |  |  |
-
-
+<br/>
 
 ## User Stories 📖
 
-| **ID dos Requisitos** | **User Stories**                                                                                                              | **ID Product Backlog** |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------|
-|  |  |  |
+| **ID dos Requisitos** | **ID Product Backlog** | **User Stories**                                                                                                              |
+|-----------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| RF_3, RF_5 | BCK_6, BCK_9 | Eu, enquanto usuário do sistema, quero poder criar uma conta própria (pública) ou acessar uma conta com outros privilégios. |
+| RNF_1, RNF_2, RNF_5, RNF_6, RF_2 | BCK_1, BCK_2, BCK_4 | Eu, enquanto usuário público do sistema, quero poder instalar o aplicativo e ter acesso aos chats onde posso buscar as respostas que preciso. |
+| RF_2 | BCK_4 | Eu, enquanto usuário público do sistema, quero poder acessar varias opções de chat, com vários contextos diferentes, onde poderei descobrir oque preciso por meio da conversa. |
+| RF_5 | BCK_10 | Eu, enquanto usuário público do sistema, quero poder acessar o histórico das conversas que já tive com os agentes de IA. |
+| RF_2 | BCK_4 | Eu, enquanto usuário público do sistema, quero poder ter uma conversa normal, eficiente e rápida com um agente. |
+| RF_3, RF_5 | BCK_6, BCK_9 | Eu, enquanto usuário com privilégios de funcionário, quero poder ter acesso a chats com informações internas a empresa. |
+| RF_5 | BCK_5, BCK_7 | Eu, enquanto administrador, quero poder gerenciar (criar, deletar e alterar) usuários e agentes. |
+| RF_3 | BCK_9 | Eu, enquanto administrador, quero poder definir e removar permissões de usuários e agentes já cadastrados. |
+| RF_5 | BCK_11 | Eu, enquanto administrador, quero poder ter acesso a dashboards com estatisticas de uso. |
+| RF_1 | BCK_8 | Eu, enquanto administrador, quero poder configurar novos e alterar antigos agentes. |
+
+<br/>
+
+## Tarefas das Sprints
+
+
+
+### Sprint 01 | 10.03 - 30.03 
+
+| **ID** | **ID do Backlog** | **Titulo** | **Descrição**                                                                                     |
+|--------|-------------------|------------|---------------------------------------------------------------------------------------------------|
+| 1 | BCK_1 | (Frontend) Desenvolvimento da Estrutura do Aplicativo | Desenvolver a estrutura do aplicativo, ou seja, criar o projeto e desenvolver a barra de navegação funcional. |
+| 2 | BCK_4 | (Frontend) Desenvolvimento da Interface do Chat | Desenvolver a interface do chat, de forma que o chat permaneça estilizado durante a conversa. |
+| 3 | BCK_5 | (Frontend) Desenvolvimento da Interface dos Administradores | Desenvolver a interface de gerenciamento dos usuários, com as funcionalidades de um CRUD padrão.  |
+| 4 | BCK_6 | (Frontend) Desenvolvimento da Interface de Login | Desenvolver a interface de login junto do acesso á essa interface. |
+| 5 | BCK_5 | (Frontend) Implementação do Sistema de Gerenciamento de Usuários | Implementar sistema de gerenciamento de usuários desenvolvido no backend á interface do administrador. |
+| 6 | BCK_6 | (Frontend) Impelmentação do Sistema de Autenticação | Implementar sistema de autenticação, incluindo a criação de token, á interface do login. |
+| 7 | BCK_4 | (Frontend) Implementação do ChatBot (Incompleto) no Chat | Implementar Chatbot não finalizado presente no backend na interface do chat. |
+| 8 | BCK_2 | (Frontend) Implementação do Frontend na Nuvem AWS| Fazer o deploy do frontend da aplicação na nuvem, por meio da AWS. |
+| 9 | BCK_5 | (Backend) Desenvolvimento do Sistema de Gerenciamento de Usuários | Desenvolver sistema que faz um CRUD padrão na entidade de usuários. |
+| 10 | BCK_6 | (Backend) Desenvolvimento do Sistema de Autenticação | Desenvolviemnto do sistema de autenticação que será implementado no sistema. |
+| 11 | BCK_4 | (Backend) Desenvolvimento de ChatBot (Incompleto) | Desenvolvimento de um ChatBot incompleto, que possua capacidade comunicativa e de conhecimento limitadas.  |
+| 12 | BCK_2 | (Backend) Desenvolvimento do Banco de Dados | Desenvolvimento do banco de dados do sistema e conexão com os serviços do Backend. |
+| 13 | BCK_8 | (Backend) Estudo Sobre Agentes de IA e suas Ferramentas | Estudos necessários para a próxima Sprint sobre o desenvolvimento de Agentes que supram as necessidades do cliente. |
+| 14 | BCK_4 | (Backend) Desenvolvimento de Sistema de Linguagem Natural para o Chat | Desenvolvimento de um Algoritimo que permite a compreensão do chatbot por linguagem natural. |
+| 15 | BCK_2 | (Backend) Implementação do Backend na Nuvem AWS | Fazer o deploy do servidor da aplicação na nuvem, por meio da AWS. |
+| 16 | BCK_3 | (Geral) Definição de Padrões DevOps do Projeto | Definição dos padrões do projeto que serão seguidos nessa e nas próximas sprints. |
 
 
 <br>
 
 ## DoD e DoR
-DoR (Definition of Ready) | DoD (Definition of Done) |
--------------------------|---------------------------|
+|DoR (Definition of Ready) | DoD (Definition of Done) |
+|-------------------------|---------------------------|
+| As Tasks e as User Stories devem estar claras e possuirem uma descrição. | A funcionalidade deve ter sido aplicada na branch development via Pull request |
+| Não se deve haver dúvidas sobre oque deverá ser feito. | A funcionalidade deve estar implementada em conjunto ao resto do sistema. |
+| Oque é necessário para o desenvolvimento da Task já deve estar compelto ou seno finalizado. | Deve ter sido testada isoladamente e funcionado como esperado. |
+| A interface ou sistema a ser feito deve ser apresentado pelo protótipo ou pela arquitetura na Task. | Deve ser testada em conjunto e funcionado como esperado | 
 
 
- 
  ### Documentação📄
 
 <h2>📑Link para a Documentação do projeto:</h4>
