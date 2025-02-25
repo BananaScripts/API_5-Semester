@@ -4,7 +4,6 @@
 <h1 align="center">API 2025.1 - Banana Script</h1>
  <p align="center">
      <a href="#sobre">Sobre</a> •
-     <a href="https://github.com/BananaScripts/Meteorological-Data-Collector/wiki/Configura%C3%A7%C3%A3o-de-Ambiente">Como rodar o projeto</a> •
      <a href="#tecnologias">Ferramentas e Tecnologias</a> •
      <a href="#entregas">Entregas</a> • 
      <a href="#backlog">Backlogs e User Stories</a> •
