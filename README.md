@@ -200,14 +200,14 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 | 4 | BCK_6 | (Frontend) Desenvolvimento da Interface de Login | Desenvolver a interface de login junto do acesso á essa interface. |
 | 5 | BCK_5 | (Frontend) Implementação do Sistema de Gerenciamento de Usuários | Implementar sistema de gerenciamento de usuários desenvolvido no backend á interface do administrador. |
 | 6 | BCK_6 | (Frontend) Impelmentação do Sistema de Autenticação | Implementar sistema de autenticação, incluindo a criação de token, á interface do login. |
-| 7 | BCK_4 | (Frontend) Implementação do ChatBot (Incompleto) no Chat | Implementar Chatbot não finalizado presente no backend na interface do chat. |
+| 7 | BCK_4 | (Frontend) Implementação do Chat | Implementar Chat sem os agentes de IA presente no backend na interface do chat. |
 | 8 | BCK_2 | (Frontend) Implementação do Frontend na Nuvem AWS| Fazer o deploy do frontend da aplicação na nuvem, por meio da AWS. |
 | 9 | BCK_5 | (Backend) Desenvolvimento do Sistema de Gerenciamento de Usuários | Desenvolver sistema que faz um CRUD padrão na entidade de usuários. |
 | 10 | BCK_6 | (Backend) Desenvolvimento do Sistema de Autenticação | Desenvolviemnto do sistema de autenticação que será implementado no sistema. |
-| 11 | BCK_4 | (Backend) Desenvolvimento de ChatBot (Incompleto) | Desenvolvimento de um ChatBot incompleto, que possua capacidade comunicativa e de conhecimento limitadas.  |
+| 11 | BCK_4 | (Backend) Desenvolvimento do Chat | Desenvolvimento de um sistema que permita a conversa entre um usuário e um agente  |
 | 12 | BCK_2 | (Backend) Desenvolvimento do Banco de Dados | Desenvolvimento do banco de dados do sistema e conexão com os serviços do Backend. |
 | 13 | BCK_8 | (Backend) Estudo Sobre Agentes de IA e suas Ferramentas | Estudos necessários para a próxima Sprint sobre o desenvolvimento de Agentes que supram as necessidades do cliente. |
-| 14 | BCK_4 | (Backend) Desenvolvimento de Sistema de Linguagem Natural para o Chat | Desenvolvimento de um Algoritimo que permite a compreensão do chatbot por linguagem natural. |
+| 14 | BCK_4 | (Frontend) Estudo de Flutter | Estudo da tecnologia não familiar flutter. |
 | 15 | BCK_2 | (Backend) Implementação do Backend na Nuvem AWS | Fazer o deploy do servidor da aplicação na nuvem, por meio da AWS. |
 | 16 | BCK_3 | (Geral) Definição de Padrões DevOps do Projeto | Definição dos padrões do projeto que serão seguidos nessa e nas próximas sprints. |
 
