@@ -229,10 +229,14 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 
 <a href="https://github.com/BananaScripts/API_5-Semester/wiki/Documentation"> 📂/Documentação do projeto</a>
 
-<h4>Modelo de Dados</h4>
+<h4>Diagrama de Sequencia</h4>
+
+<img src="./Docs/Kickoff/Diagrama-de-Sequencia.png" width="1000"/>
 
 <br>
 <h4>Arquitetura do Projeto</h4>
+
+<img src="./Docs/Kickoff/Arquitetura-do-Sistema.png" width="1000"/>
 
 <br>
 
