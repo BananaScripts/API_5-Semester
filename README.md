@@ -207,7 +207,7 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 | 11 | BCK_4 | (Backend) Desenvolvimento do Chat | Desenvolvimento de um sistema que permita a conversa entre um usuário e um agente  |
 | 12 | BCK_2 | (Backend) Desenvolvimento do Banco de Dados | Desenvolvimento do banco de dados do sistema e conexão com os serviços do Backend. |
 | 13 | BCK_8 | (Backend) Estudo Sobre Agentes de IA e suas Ferramentas | Estudos necessários para a próxima Sprint sobre o desenvolvimento de Agentes que supram as necessidades do cliente. |
-| 14 | BCK_4 | (Frontend) Estudo de Flutter | Estudo da tecnologia não familiar flutter. |
+| 14 | BCK_1 | (Frontend) Estudo de Flutter | Estudo da tecnologia não familiar flutter. |
 | 15 | BCK_2 | (Backend) Implementação do Backend na Nuvem AWS | Fazer o deploy do servidor da aplicação na nuvem, por meio da AWS. |
 | 16 | BCK_3 | (Geral) Definição de Padrões DevOps do Projeto | Definição dos padrões do projeto que serão seguidos nessa e nas próximas sprints. |
 
