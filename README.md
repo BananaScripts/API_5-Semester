@@ -155,17 +155,17 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 
 | **ID** | **Requsitos** | **Item**                                                                                               | **Prioridade** |
 |---------------|--------|--------------------------------------------------------------------------------------------------------|----------------|
-| BCK_1 | RNF_1, RNF_5, RNF_6 | Estrutura do Aplicativo Móvel | 1 |
-| BCK_2 | RNF_2 | Implementação do Aplicativo e seus Serviços em Nuvem | 1 |
-| BCK_3 | RNF_4 | Definição e Aplicação dos Padrões de DevOps Definidos | 1 | 
-| BCK_4 | RF_2 | Sistema de Chat Inteligente entre um Usuário e um Agente de IA | 1 |
-| BCK_5 | RF_5 | Sistema de Gerenciamento de Usuários  | 1 |
-| BCK_6 | RF_5 | Sistema de Login e Autenticação | 1 |
-| BCK_7 | RF_5 | Sistema de Gerenciamento de Agentes de IA | 2 |
-| BCK_8 | RF_1, RNF_3 | Sistema de Configuração e Criação de Agentes de IA | 2 |
-| BCK_9 | RF_3 | Sistema de Permissão de Usuários e Agentes de IA | 2 |
-| BCK_10 | RF_4 | Sistema de Histórico dos Chats | 3 |
-| BCK_11 | RF_5 | SIstema de Dashboards dos Chats | 3 |
+| BCK_1 | RNF_1, RNF_5, RNF_6 | Estrutura do Aplicativo Móvel. | 1 |
+| BCK_2 | RNF_2 | Implementação do Aplicativo e seus Serviços em Nuvem ( Cloud Service). | 1 |
+| BCK_3 | RNF_4 | Definição e Aplicação dos Padrões de DevOps Definidos. | 1 | 
+| BCK_4 | RF_2 | Sistema de Chat entre um Usuário e um Agente de IA ( WebSocket Gateway). | 1 |
+| BCK_5 | RF_5 | Sistema de Gerenciamento de Usuários ( Agent Management Service). | 1 |
+| BCK_6 | RF_5 | Sistema de Login e Autenticação ( Auth Service). | 1 |
+| BCK_7 | RF_5 | Sistema de Gerenciamento de Agentes de IAs ( Agent Management Service). | 2 |
+| BCK_8 | RF_1, RNF_3 | Sistema de Configuração e criação de Agentes de IA ( AI Processing Service). | 2 |
+| BCK_9 | RF_3 | Sistema de Permissão de Usuários e Agentes de IA ( Agent Management Service ). | 2 |
+| BCK_10 | RF_4 | Sistema de Histórico dos Chats (Redis) | 3 |
+| BCK_11 | RF_5 | Sistema de Dashboards dos Chats (Dashboards Administrativos) | 3 |
 
 <br/>
 
@@ -173,16 +173,16 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 
 | **ID dos Requisitos** | **ID Product Backlog** | **User Stories**                                                                                                              |
 |-----------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| RF_3, RF_5 | BCK_6, BCK_9 | Eu, enquanto usuário do sistema, quero poder criar uma conta própria (pública) ou acessar uma conta com outros privilégios. |
-| RNF_1, RNF_2, RNF_5, RNF_6, RF_2 | BCK_1, BCK_2, BCK_4 | Eu, enquanto usuário público do sistema, quero poder instalar o aplicativo e ter acesso aos chats onde posso buscar as respostas que preciso. |
-| RF_2 | BCK_4 | Eu, enquanto usuário público do sistema, quero poder acessar varias opções de chat, com vários contextos diferentes, onde poderei descobrir oque preciso por meio da conversa. |
-| RF_5 | BCK_10 | Eu, enquanto usuário público do sistema, quero poder acessar o histórico das conversas que já tive com os agentes de IA. |
-| RF_2 | BCK_4 | Eu, enquanto usuário público do sistema, quero poder ter uma conversa normal, eficiente e rápida com um agente. |
-| RF_3, RF_5 | BCK_6, BCK_9 | Eu, enquanto usuário com privilégios de funcionário, quero poder ter acesso a chats com informações internas a empresa. |
-| RF_5 | BCK_5, BCK_7 | Eu, enquanto administrador, quero poder gerenciar (criar, deletar e alterar) usuários e agentes. |
-| RF_3 | BCK_9 | Eu, enquanto administrador, quero poder definir e removar permissões de usuários e agentes já cadastrados. |
-| RF_5 | BCK_11 | Eu, enquanto administrador, quero poder ter acesso a dashboards com estatisticas de uso. |
-| RF_1 | BCK_8 | Eu, enquanto administrador, quero poder configurar novos e alterar antigos agentes. |
+| RF_3, RF_5 | BCK_6, BCK_9 | Eu, enquanto usuário do sistema, quero poder acessar uma conta já criada pelo administrador por meio do e-mail e senha.|
+| RNF_1, RNF_2, RNF_5, RNF_6, RF_2 | BCK_1, BCK_2, BCK_4 | Eu, enquanto usuário público do sistema, quero poder ter acesso á aplicação e buscar chats onde posso buscar as respostas que preciso.|
+| RF_2 | BCK_4 | Eu, enquanto usuário público do sistema, quero poder acessar varias opções de chat, com vários contextos diferentes, onde poderei descobrir oque preciso por meio da conversa com um Agente.|
+| RF_2 | BCK_4 | Eu, enquanto usuário público do sistema, quero poder ter uma conversa normal, eficiente e rápida com um Agente.|
+| RF_5 | BCK_10 | Eu, enquanto usuário cadastrado do sistema, quero poder acessar o histórico das conversas que já tive com os Agentes de IA.|
+| RF_3, RF_5 | BCK_6, BCK_9 | Eu, enquanto usuário cadastrado, quero poder ter acesso a chats com informações internas a empresa, de acordo com meu nível de privilégio.|
+| RF_5 | BCK_5, BCK_7 | Eu, enquanto administrador, quero poder gerenciar (criar, deletar e alterar) usuários e configurar Agentes.|
+| RF_3 | BCK_9 | Eu, enquanto administrador, quero poder definir e remover permissões de usuários cadastrados e Agentes.|
+| RF_5 | BCK_11 |Eu, enquanto administrador, quero poder ter acesso a dashboards com estatísticas de uso das conversas entre os usuários e Agentes.|
+| RF_1 | BCK_8 | Eu, enquanto administrador, quero poder configurar novos e alterar antigos agentes.|
 
 <br/>
 
@@ -194,7 +194,7 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 
 | **ID** | **ID do Backlog** | **Titulo** | **Descrição**                                                                                     |
 |--------|-------------------|------------|---------------------------------------------------------------------------------------------------|
-| 1 | BCK_1 | (Frontend) Desenvolvimento da Estrutura do Aplicativo | Desenvolver a estrutura do aplicativo, ou seja, criar o projeto e desenvolver a barra de navegação funcional. |
+| 1 | BCK_1 | (Frontend) Desenvolvimento da Estrutura do Aplicativo | Desenvolver a estrutura do aplicativo, ou seja, criar o projeto e desenvolver a barra de navegação funcional, além de iniciar a aplicação react. |
 | 2 | BCK_4 | (Frontend) Desenvolvimento da Interface do Chat | Desenvolver a interface do chat, de forma que o chat permaneça estilizado durante a conversa. |
 | 3 | BCK_5 | (Frontend) Desenvolvimento da Interface dos Administradores | Desenvolver a interface de gerenciamento dos usuários, com as funcionalidades de um CRUD padrão.  |
 | 4 | BCK_6 | (Frontend) Desenvolvimento da Interface de Login | Desenvolver a interface de login junto do acesso á essa interface. |
@@ -207,7 +207,7 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 | 11 | BCK_4 | (Backend) Desenvolvimento do Chat | Desenvolvimento de um sistema que permita a conversa entre um usuário e um agente  |
 | 12 | BCK_2 | (Backend) Desenvolvimento do Banco de Dados | Desenvolvimento do banco de dados do sistema e conexão com os serviços do Backend. |
 | 13 | BCK_8 | (Backend) Estudo Sobre Agentes de IA e suas Ferramentas | Estudos necessários para a próxima Sprint sobre o desenvolvimento de Agentes que supram as necessidades do cliente. |
-| 14 | BCK_1 | (Frontend) Estudo de Flutter | Estudo da tecnologia não familiar flutter. |
+| 14 | BCK_1 | (Backend) Desenvolviemento e Organização da base do Backend | Inicialização da aplicação em C# e organização dos serviços e sistemas do Backend |
 | 15 | BCK_2 | (Backend) Implementação do Backend na Nuvem AWS | Fazer o deploy do servidor da aplicação na nuvem, por meio da AWS. |
 | 16 | BCK_3 | (Geral) Definição de Padrões DevOps do Projeto | Definição dos padrões do projeto que serão seguidos nessa e nas próximas sprints. |
 
@@ -218,10 +218,10 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 |DoR (Definition of Ready) | DoD (Definition of Done) |
 |-------------------------|---------------------------|
 | As Tasks e as User Stories devem estar claras e possuirem uma descrição. | A funcionalidade deve ter sido aplicada na branch development via Pull request |
-| Não se deve haver dúvidas sobre oque deverá ser feito. | A funcionalidade deve estar implementada em conjunto ao resto do sistema. |
-| Oque é necessário para o desenvolvimento da Task já deve estar compelto ou seno finalizado. | Deve ter sido testada isoladamente e funcionado como esperado. |
-| A interface ou sistema a ser feito deve ser apresentado pelo protótipo ou pela arquitetura na Task. | Deve ser testada em conjunto e funcionado como esperado | 
+| A interface ou sistema a ser feito deve ser apresentado pelo protótipo ou pela arquitetura na Task. | A funcionalidade deve estar implementada em conjunto ao resto do sistema. |
+| Oque é necessário para o desenvolvimento da Task já deve estar completo ou sendo finalizado. | A funcionalidade que será implementada não deve interromper outra já desenvolvida. |
 
+<span id="documentacao">
 
  ### Documentação📄
 
