@@ -58,30 +58,31 @@ eficiente dos agentes e permissões.
  <span id="tecnologias">
  
  ### Ferramentas e Tecnologias⚒️
- 
-<p align="center">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
 
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,ts,py,cs,dotnet,mongodb,mysql,aiscript)](https://skillicons.dev)
 
 
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/AI-4C8BF5?style=for-the-badge&logo=robot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>   
+<img src="https://img.shields.io/badge/AI-4C8BF5?style=for-the-badge&logo=robot&logoColor=white"/> 
 
-<br/>
+<br/> <br/>
 
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github)](https://skillicons.dev)
 
-</p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
   
 <br>
 
@@ -172,15 +173,17 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 | **ID dos Requisitos** | **ID Product Backlog** | **User Stories**                                                                                                              |
 |-----------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | RF_3, RF_5 | BCK_6, BCK_9 | Eu, enquanto usuário do sistema, quero poder acessar uma conta já criada pelo administrador por meio do e-mail e senha.|
-| RNF_1, RNF_2, RNF_5, RNF_6, RF_2 | BCK_1, BCK_2, BCK_4 | Eu, enquanto usuário público do sistema, quero poder ter acesso á aplicação e buscar chats onde posso buscar as respostas que preciso.|
-| RF_2 | BCK_4 | Eu, enquanto usuário público do sistema, quero poder acessar varias opções de chat, com vários contextos diferentes, onde poderei descobrir oque preciso por meio da conversa com um Agente.|
-| RF_2 | BCK_4 | Eu, enquanto usuário público do sistema, quero poder ter uma conversa normal, eficiente e rápida com um Agente.|
-| RF_5 | BCK_10 | Eu, enquanto usuário cadastrado do sistema, quero poder acessar o histórico das conversas que já tive com os Agentes de IA.|
-| RF_3, RF_5 | BCK_6, BCK_9 | Eu, enquanto usuário cadastrado, quero poder ter acesso a chats com informações internas a empresa, de acordo com meu nível de privilégio.|
-| RF_5 | BCK_5, BCK_7 | Eu, enquanto administrador, quero poder gerenciar (criar, deletar e alterar) usuários e configurar Agentes.|
+| RNF_1, RNF_2, RNF_5, RNF_6, RF_2 | BCK_1, BCK_2, BCK_4 | Eu, enquanto usuário comum do sistema, quero poder ter acesso á aplicação e buscar chats onde posso buscar as respostas que preciso.|
+| RF_2 | BCK_4 | Eu, enquanto usuário comum do sistema, quero poder acessar varias opções de chat, com vários contextos diferentes, onde poderei descobrir oque preciso por meio da conversa com um Agente.|
+| RF_2 | BCK_4 | Eu, enquanto usuário comum do sistema, quero poder ter uma conversa normal, eficiente e rápida com um Agente.|
+| RF_5 | BCK_10 | Eu, enquanto usuário comum do sistema, quero poder acessar o histórico das conversas que já tive com os Agentes de IA.|
+| RF_3, RF_5 | BCK_6, BCK_9 | Eu, enquanto usuário comum, quero poder ter acesso a chats com informações internas a empresa, de acordo com meu nível de privilégio.|
+| RF_1 | BCK_8 | Eu, enquanto curador, quero poder configurar novos e alterar antigos agentes.|
+| RF_1 | BCK_8 | Eu, enquanto curador, quero poder categorizar os Agentes de forma individual. |
+| RF_5 | BCK_5, BCK_7 | Eu, enquanto administrador, quero poder gerenciar (criar, deletar e alterar) usuários e poder além e tudo, configurar Agentes.|
 | RF_3 | BCK_9 | Eu, enquanto administrador, quero poder definir e remover permissões de usuários cadastrados e Agentes.|
 | RF_5 | BCK_11 |Eu, enquanto administrador, quero poder ter acesso a dashboards com estatísticas de uso das conversas entre os usuários e Agentes.|
-| RF_1 | BCK_8 | Eu, enquanto administrador, quero poder configurar novos e alterar antigos agentes.|
+
 
 <br/>
 
@@ -209,6 +212,23 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 | 15 | BCK_2 | (Backend) Implementação do Backend na Nuvem AWS | Fazer o deploy do servidor da aplicação na nuvem, por meio da AWS. |
 | 16 | BCK_3 | (Geral) Definição de Padrões DevOps do Projeto | Definição dos padrões do projeto que serão seguidos nessa e nas próximas sprints. |
 
+### Sprint 02 | 07.04 - 27.04 
+
+| **ID** | **ID do Backlog** | **Titulo** | **Descrição**                                                                                     |
+|--------|-------------------|------------|---------------------------------------------------------------------------------------------------|
+| 1 | BCK_7 | (Frontend) Desenvolvimento da interface dos Curadores | Desenvolvimento de uma interface que permmita que o curador possa gerenciar (criar, editar, alterar, ver e configurar o conteudo) dos Agentes já criados ou ao criar um novo. (Essa interface deve ser adicionada também na interface do Administrador como uma de suas funcionalidades.). |
+| 2 | BCK_9 | (Frontend) Desenvolver a interface de gerenciamento de Permissões de usuários e Agentes. | Desenvolver uma interface que permita definir quais usuários poderão conversar com quais Agentes, baseados em um sistema de permissão próprio nosso ou nos padrões de mercado. (As permissões não devem afetar usuários com privilégios de curadores ou administradores, apenas usuários "comuns"/ cadastrados.) |
+| 3 | BCK_9 | (Frontend) Aprimorar interface do Administrador, implementando a interface de um curador e a interface de permissões | Implementar na já criada interface do Administrador, duas interfaces desenvolvidas em outras Tasks como funcionalidades do Administrador. |
+| 4 | BCK_1 | (Frontend) Aprimorar Sistema de Login, alterando as interfaces baseadas nos privilégios. | Aprimorar base do sistema e o sistema de Login, permitindo que usuários Administradores e Curadores possuam interfaces diferentes em um mesmo espaço, permitindo que cada um tenha as suas funcionalidades correspondente. |
+| 5 | BCK_1 | (Frontend) Aprimotar as interfaces já criadas Implementando os Agentes, inserindo mecanismos de busca por nome e categoria. | Implementar Agentes nas interfaces de escolha, dando a possibilidade de filtrar os agentes em mecanismos de busca por nome do agente, categoria/ área e criadas por último. |
+| 6 | BCK_4 | (Frontend) Aprimorar o chat, implementando os Agentes, permitindo a conversa do sistema com o usuário. | Implementar sistema de envio e recebimento de mensagens no frontend, mantendo a consistencia entre os agentes e usuários. |
+| 7 | BCK_7 | (Frontend) Implementar o Sistema de Gerenciador dos Curadores em sua Interface. | Implementar sistema que permite gerenciar (criar, editar, alterar, ver e configurar o conteudo) os Agentes, além de também possuir a interface gerenciadora de permissões. |
+| 8 | BCK_9 | (Backend) Desenvolvimento de Sistema de Permissões relacionado á Usuários e Agentes | Desenvolver um sistema que permita categorizar os usuários comuns e os Agentes por meio de niveis de permissão, onde o maior pode ver os menores, mas eles não podem visualizar/ conversar com algo superior á seu nivel de permissão.|
+| 9 | BCK_8 | (Backend) Desenvolver a base do Chatbot, para que seja o Agente Default que será utilizado em todo o sistema. | Desenvolver uma base do Chatbot, sem nenhum conhecimento prévio, porém com capacidade de manter uma conversa e forma amigavel com o usuário (meta realista: 5 perguntas e repostas; meta ideal: 10 perguntas e respostas). |
+| 10 | BCK_8 | (Backend) Desenvolver Sistema de Nutrição dos Agentes, permitindo-os receber conteúdo personalizado. | Desenvolver sistema que permita a evolução do Chatbot, permitindo adicionar novas perguntas, respostas, e conteúdo com um todo, sem perder a sua base no processo. |
+| 11 | BCK_9 | (Backend) Desenvolver sistema de Gerenciamento dos Agentes | Desenvolver sistema que o usuário Curador usará para criar, deletar, alterar, ver e definir o conteúdo dos Agentes. |
+| 12 | BCK_8 | (Backend) Aprimorar o Chatbot com capacidade Interpretativa. | Desenvolver, por meio de um sistema de classificação, um capacidade "interpretativa" no Chatbot, permitindo que ele responda as perguntas baseado nas palavras conhecidas utilizadas na pergunta. Essa funcionalidade deve ser adicionado ao Chatbot Default. |
+
 
 <br>
 
@@ -225,7 +245,7 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 
 <h2>📑Link para a Documentação do projeto:</h4>
 
-<a href="https://github.com/BananaScripts/API_5-Semester/wiki/Documentation"> 📂/Documentação do projeto</a>
+<a href="https://github.com/BananaScripts/API_5-Semester/wiki"> 📂/Documentação do projeto</a>
 
 <h4>Diagrama de Sequencia</h4>
 
