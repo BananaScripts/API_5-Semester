@@ -1,0 +1,6 @@
+[submodule "Submodulo-Frontend"]
+	path = Submodulo-Frontend
+	url = https://github.com/BananaScripts/API_5-Semester-Frontend
+[submodule "Submodulo-Backend"]
+	path = Submodulo-Backend
+	url = https://github.com/BananaScripts/API_5-Semester-Backend
