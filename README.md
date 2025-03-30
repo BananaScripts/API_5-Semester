@@ -194,7 +194,7 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 ### Sprint 01 | 10.03 - 30.03 
 
 | **ID** | **ID do Jira** | **ID do Backlog** | **Titulo** | **Descrição**                                                                                     |
-|--------|-------------------|------------|---------------------------------------------------------------------------------------------------|
+|--------|----------------|-------------------|------------|---------------------------------------------------------------------------------------------------|
 | 1 | Scrum-10 | BCK_1 | (Frontend) Desenvolvimento da Estrutura do Aplicativo | Desenvolver a estrutura do aplicativo, ou seja, criar o projeto e desenvolver a barra de navegação funcional, além de iniciar a aplicação react. |
 | 2 | Scrum-11 | BCK_4 | (Frontend) Desenvolvimento da Interface do Chat | Desenvolver a interface do chat, de forma que o chat permaneça estilizado durante a conversa. |
 | 3 | Scrum-12 | BCK_5 | (Frontend) Desenvolvimento da Interface dos Administradores | Desenvolver a interface de gerenciamento dos usuários, com as funcionalidades de um CRUD padrão.  |
@@ -215,7 +215,7 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 ### Sprint 02 | 07.04 - 27.04 
 
 | **ID** | **ID do Jira** | **ID do Backlog** | **Titulo** | **Descrição**                                                                                     |
-|--------|-------------------|------------|---------------------------------------------------------------------------------------------------|
+|--------|----------------|------|------------|---------------------------------------------------------------------------------------------------|
 | 1 | Scrum-28 | BCK_7 | (Frontend) Desenvolvimento da interface dos Curadores | Desenvolvimento de uma interface que permmita que o curador possa gerenciar (criar, editar, alterar, ver e configurar o conteudo) dos Agentes já criados ou ao criar um novo. (Essa interface deve ser adicionada também na interface do Administrador como uma de suas funcionalidades.). |
 | 2 | Scrum-29 | BCK_9 | (Frontend) Desenvolver a interface de gerenciamento de Permissões de usuários e Agentes. | Desenvolver uma interface que permita definir quais usuários poderão conversar com quais Agentes, baseados em um sistema de permissão próprio nosso ou nos padrões de mercado. (As permissões não devem afetar usuários com privilégios de curadores ou administradores, apenas usuários "comuns"/ cadastrados.) |
 | 3 | Scrum-30 | BCK_9 | (Frontend) Aprimorar interface do Administrador, implementando a interface de um curador e a interface de permissões | Implementar na já criada interface do Administrador, duas interfaces desenvolvidas em outras Tasks como funcionalidades do Administrador. |
