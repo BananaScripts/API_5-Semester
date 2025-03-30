@@ -93,8 +93,8 @@ eficiente dos agentes e permissões.
 Período | Data | Status  |
 --------------|------| --------|
 Kickoff | 25.02.2025 - 07.03.2025 | ✅ |
-Sprint 01 | 10.03.2025 - 30.03.2025 | Em Andamento |
-Sprint Review | 31.03.2025 - 04.04.2025 | Não Iniciado |
+Sprint 01 | 10.03.2025 - 30.03.2025 | ✅ |
+Sprint Review | 31.03.2025 - 04.04.2025 | Em Andamento |
 Sprint 02 | 07.04.2025 - 27.04.2025 | Não Iniciado |
 Sprint Review | 28.04.2025 - 02.05.2025 | Não Iniciado |
 Sprint 03 | 05.05.2025 - 25.05.2025 | Não Iniciado |
