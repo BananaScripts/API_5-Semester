@@ -193,39 +193,41 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 
 ### Sprint 01 | 10.03 - 30.03 
 
-| **ID** | **ID do Backlog** | **Titulo** | **Descrição**                                                                                     |
+| **ID** | **ID do Jira** | **ID do Backlog** | **Titulo** | **Descrição**                                                                                     |
 |--------|-------------------|------------|---------------------------------------------------------------------------------------------------|
-| 1 | BCK_1 | (Frontend) Desenvolvimento da Estrutura do Aplicativo | Desenvolver a estrutura do aplicativo, ou seja, criar o projeto e desenvolver a barra de navegação funcional, além de iniciar a aplicação react. |
-| 2 | BCK_4 | (Frontend) Desenvolvimento da Interface do Chat | Desenvolver a interface do chat, de forma que o chat permaneça estilizado durante a conversa. |
-| 3 | BCK_5 | (Frontend) Desenvolvimento da Interface dos Administradores | Desenvolver a interface de gerenciamento dos usuários, com as funcionalidades de um CRUD padrão.  |
-| 4 | BCK_6 | (Frontend) Desenvolvimento da Interface de Login | Desenvolver a interface de login junto do acesso á essa interface. |
-| 5 | BCK_5 | (Frontend) Implementação do Sistema de Gerenciamento de Usuários | Implementar sistema de gerenciamento de usuários desenvolvido no backend á interface do administrador. |
-| 6 | BCK_6 | (Frontend) Impelmentação do Sistema de Autenticação | Implementar sistema de autenticação, incluindo a criação de token, á interface do login. |
-| 7 | BCK_4 | (Frontend) Implementação do Chat | Implementar Chat sem os agentes de IA presente no backend na interface do chat. |
-| 8 | BCK_5 | (Backend) Desenvolvimento do Sistema de Gerenciamento de Usuários | Desenvolver sistema que faz um CRUD padrão na entidade de usuários. |
-| 9 | BCK_6 | (Backend) Desenvolvimento do Sistema de Autenticação | Desenvolviemnto do sistema de autenticação que será implementado no sistema. |
-| 10 | BCK_4 | (Backend) Desenvolvimento do Chat | Desenvolvimento de um sistema que permita a conversa entre um usuário e um agente  |
-| 11 | BCK_2 | (Backend) Desenvolvimento do Banco de Dados | Desenvolvimento do banco de dados do sistema e conexão com os serviços do Backend. |
-| 12 | BCK_8 | (Backend) Estudo Sobre Agentes de IA e suas Ferramentas | Estudos necessários para a próxima Sprint sobre o desenvolvimento de Agentes que supram as necessidades do cliente. |
-| 13 | BCK_1 | (Backend) Desenvolvimento e Organização da base do Backend | Inicialização da aplicação em C# e organização dos serviços e sistemas do Backend |
-| 14 | BCK_3 | (Geral) Definição de Padrões DevOps do Projeto | Definição dos padrões do projeto que serão seguidos nessa e nas próximas sprints. |
+| 1 | Scrum-10 | BCK_1 | (Frontend) Desenvolvimento da Estrutura do Aplicativo | Desenvolver a estrutura do aplicativo, ou seja, criar o projeto e desenvolver a barra de navegação funcional, além de iniciar a aplicação react. |
+| 2 | Scrum-11 | BCK_4 | (Frontend) Desenvolvimento da Interface do Chat | Desenvolver a interface do chat, de forma que o chat permaneça estilizado durante a conversa. |
+| 3 | Scrum-12 | BCK_5 | (Frontend) Desenvolvimento da Interface dos Administradores | Desenvolver a interface de gerenciamento dos usuários, com as funcionalidades de um CRUD padrão.  |
+| 4 | Scrum-13 | BCK_6 | (Frontend) Desenvolvimento da Interface de Login | Desenvolver a interface de login junto do acesso á essa interface. |
+| 5 | Scrum-14 | BCK_5 | (Frontend) Implementação do Sistema de Gerenciamento de Usuários | Implementar sistema de gerenciamento de usuários desenvolvido no backend á interface do administrador. |
+| 6 | Scrum-15 | BCK_6 | (Frontend) Impelmentação do Sistema de Autenticação | Implementar sistema de autenticação, incluindo a criação de token, á interface do login. |
+| 7 | Scrum-16 | BCK_4 | (Frontend) Implementação do Chat | Implementar Chat sem os agentes de IA presente no backend na interface do chat. |
+| 8 | Scrum-18 | BCK_5 | (Backend) Desenvolvimento do Sistema de Gerenciamento de Usuários | Desenvolver sistema que faz um CRUD padrão na entidade de usuários. |
+| 9 | Scrum-19 | BCK_6 | (Backend) Desenvolvimento do Sistema de Autenticação | Desenvolviemnto do sistema de autenticação que será implementado no sistema. |
+| 10 | Scrum-20 | BCK_4 | (Backend) Desenvolvimento do Chat | Desenvolvimento de um sistema que permita a conversa entre um usuário e um agente  |
+| 11 | Scrum-21 | BCK_2 | (Backend) Desenvolvimento do Banco de Dados | Desenvolvimento do banco de dados do sistema e conexão com os serviços do Backend. |
+| 12 | Scrum-22 | BCK_8 | (Backend) Estudo Sobre Agentes de IA e suas Ferramentas | Estudos necessários para a próxima Sprint sobre o desenvolvimento de Agentes que supram as necessidades do cliente. |
+| 13 | Scrum-23 | BCK_1 | (Backend) Desenvolvimento e Organização da base do Backend | Inicialização da aplicação em C# e organização dos serviços e sistemas do Backend |
+| 14 | Scrum-25 | BCK_3 | (Geral) Definição de Padrões DevOps do Projeto | Definição dos padrões do projeto que serão seguidos nessa e nas próximas sprints. |
+
+<br/>
 
 ### Sprint 02 | 07.04 - 27.04 
 
-| **ID** | **ID do Backlog** | **Titulo** | **Descrição**                                                                                     |
+| **ID** | **ID do Jira** | **ID do Backlog** | **Titulo** | **Descrição**                                                                                     |
 |--------|-------------------|------------|---------------------------------------------------------------------------------------------------|
-| 1 | BCK_7 | (Frontend) Desenvolvimento da interface dos Curadores | Desenvolvimento de uma interface que permmita que o curador possa gerenciar (criar, editar, alterar, ver e configurar o conteudo) dos Agentes já criados ou ao criar um novo. (Essa interface deve ser adicionada também na interface do Administrador como uma de suas funcionalidades.). |
-| 2 | BCK_9 | (Frontend) Desenvolver a interface de gerenciamento de Permissões de usuários e Agentes. | Desenvolver uma interface que permita definir quais usuários poderão conversar com quais Agentes, baseados em um sistema de permissão próprio nosso ou nos padrões de mercado. (As permissões não devem afetar usuários com privilégios de curadores ou administradores, apenas usuários "comuns"/ cadastrados.) |
-| 3 | BCK_9 | (Frontend) Aprimorar interface do Administrador, implementando a interface de um curador e a interface de permissões | Implementar na já criada interface do Administrador, duas interfaces desenvolvidas em outras Tasks como funcionalidades do Administrador. |
-| 4 | BCK_1 | (Frontend) Aprimorar Sistema de Login, alterando as interfaces baseadas nos privilégios. | Aprimorar base do sistema e o sistema de Login, permitindo que usuários Administradores e Curadores possuam interfaces diferentes em um mesmo espaço, permitindo que cada um tenha as suas funcionalidades correspondente. |
-| 5 | BCK_1 | (Frontend) Aprimotar as interfaces já criadas Implementando os Agentes, inserindo mecanismos de busca por nome e categoria. | Implementar Agentes nas interfaces de escolha, dando a possibilidade de filtrar os agentes em mecanismos de busca por nome do agente, categoria/ área e criadas por último. |
-| 6 | BCK_4 | (Frontend) Aprimorar o chat, implementando os Agentes, permitindo a conversa do sistema com o usuário. | Implementar sistema de envio e recebimento de mensagens no frontend, mantendo a consistencia entre os agentes e usuários. |
-| 7 | BCK_7 | (Frontend) Implementar o Sistema de Gerenciador dos Curadores em sua Interface. | Implementar sistema que permite gerenciar (criar, editar, alterar, ver e configurar o conteudo) os Agentes, além de também possuir a interface gerenciadora de permissões. |
-| 8 | BCK_9 | (Backend) Desenvolvimento de Sistema de Permissões relacionado á Usuários e Agentes | Desenvolver um sistema que permita categorizar os usuários comuns e os Agentes por meio de niveis de permissão, onde o maior pode ver os menores, mas eles não podem visualizar/ conversar com algo superior á seu nivel de permissão.|
-| 9 | BCK_8 | (Backend) Desenvolver a base do Agente, para que haja o Agente Default que será utilizado em todo o sistema. | Desenvolver uma base do Agnete, sem nenhum conhecimento prévio, porém com capacidade de manter uma conversa e forma amigavel com o usuário (meta realista: 5 perguntas e repostas; meta ideal: 10 perguntas e respostas). |
-| 10 | BCK_8 | (Backend) Desenvolver Sistema de Nutrição dos Agentes, permitindo-os receber conteúdo personalizado atravez de um tratamento prévio dos dados. | Desenvolver sistema que permita a evolução da IA, permitindo adicionar novas perguntas, respostas, e conteúdo com um todo, sem perder a sua base no processo. |
-| 11 | BCK_9 | (Backend) Desenvolver sistema de Gerenciamento dos Agentes | Desenvolver sistema que o usuário Curador usará para criar, deletar, alterar, ver e definir o conteúdo dos Agentes. |
-| 12 | BCK_8 | (Backend) Treinar a IA para que ela posa implementar conteúdos novos em susas respostas | Treinar e aprimorar a capacidade do Agente Default receber dados e inseri-los como respostas, aplicando assim o conhecimento aprendido. |
+| 1 | Scrum-28 | BCK_7 | (Frontend) Desenvolvimento da interface dos Curadores | Desenvolvimento de uma interface que permmita que o curador possa gerenciar (criar, editar, alterar, ver e configurar o conteudo) dos Agentes já criados ou ao criar um novo. (Essa interface deve ser adicionada também na interface do Administrador como uma de suas funcionalidades.). |
+| 2 | Scrum-29 | BCK_9 | (Frontend) Desenvolver a interface de gerenciamento de Permissões de usuários e Agentes. | Desenvolver uma interface que permita definir quais usuários poderão conversar com quais Agentes, baseados em um sistema de permissão próprio nosso ou nos padrões de mercado. (As permissões não devem afetar usuários com privilégios de curadores ou administradores, apenas usuários "comuns"/ cadastrados.) |
+| 3 | Scrum-30 | BCK_9 | (Frontend) Aprimorar interface do Administrador, implementando a interface de um curador e a interface de permissões | Implementar na já criada interface do Administrador, duas interfaces desenvolvidas em outras Tasks como funcionalidades do Administrador. |
+| 4 | Scrum-31 | BCK_1 | (Frontend) Aprimorar Sistema de Login, alterando as interfaces baseadas nos privilégios. | Aprimorar base do sistema e o sistema de Login, permitindo que usuários Administradores e Curadores possuam interfaces diferentes em um mesmo espaço, permitindo que cada um tenha as suas funcionalidades correspondente. |
+| 5 | Scrum-32 | BCK_1 | (Frontend) Aprimotar as interfaces já criadas Implementando os Agentes, inserindo mecanismos de busca por nome e categoria. | Implementar Agentes nas interfaces de escolha, dando a possibilidade de filtrar os agentes em mecanismos de busca por nome do agente, categoria/ área e criadas por último. |
+| 6 | Scrum-33 | BCK_4 | (Frontend) Aprimorar o chat, implementando os Agentes, permitindo a conversa do sistema com o usuário. | Implementar sistema de envio e recebimento de mensagens no frontend, mantendo a consistencia entre os agentes e usuários. |
+| 7 | Scrum-34 | BCK_7 | (Frontend) Implementar o Sistema de Gerenciador dos Curadores em sua Interface. | Implementar sistema que permite gerenciar (criar, editar, alterar, ver e configurar o conteudo) os Agentes, além de também possuir a interface gerenciadora de permissões. |
+| 8 | Scrum-35 | BCK_9 | (Backend) Desenvolvimento de Sistema de Permissões relacionado á Usuários e Agentes | Desenvolver um sistema que permita categorizar os usuários comuns e os Agentes por meio de niveis de permissão, onde o maior pode ver os menores, mas eles não podem visualizar/ conversar com algo superior á seu nivel de permissão.|
+| 9 | Scrum-36 | BCK_8 | (Backend) Desenvolver a base do Agente, para que haja o Agente Default que será utilizado em todo o sistema. | Desenvolver uma base do Agnete, sem nenhum conhecimento prévio, porém com capacidade de manter uma conversa e forma amigavel com o usuário (meta realista: 5 perguntas e repostas; meta ideal: 10 perguntas e respostas). |
+| 10 | Scrum-37 | BCK_8 | (Backend) Desenvolver Sistema de Nutrição dos Agentes, permitindo-os receber conteúdo personalizado atravez de um tratamento prévio dos dados. | Desenvolver sistema que permita a evolução da IA, permitindo adicionar novas perguntas, respostas, e conteúdo com um todo, sem perder a sua base no processo. |
+| 11 | Scrum-38 | BCK_9 | (Backend) Desenvolver sistema de Gerenciamento dos Agentes | Desenvolver sistema que o usuário Curador usará para criar, deletar, alterar, ver e definir o conteúdo dos Agentes. |
+| 12 | Scrum-39 | BCK_8 | (Backend) Treinar a IA para que ela posa implementar conteúdos novos em susas respostas | Treinar e aprimorar a capacidade do Agente Default receber dados e inseri-los como respostas, aplicando assim o conhecimento aprendido. |
 
 
 <br>
