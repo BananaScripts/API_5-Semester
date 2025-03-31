@@ -224,10 +224,10 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 | 6 | Scrum-33 | BCK_4 | (Frontend) Aprimorar o chat, implementando os Agentes, permitindo a conversa do sistema com o usuário. | Implementar sistema de envio e recebimento de mensagens no frontend, mantendo a consistencia entre os agentes e usuários. |
 | 7 | Scrum-34 | BCK_7 | (Frontend) Implementar o Sistema de Gerenciador dos Curadores em sua Interface. | Implementar sistema que permite gerenciar (criar, editar, alterar, ver e configurar o conteudo) os Agentes, além de também possuir a interface gerenciadora de permissões. |
 | 8 | Scrum-35 | BCK_9 | (Backend) Desenvolvimento de Sistema de Permissões relacionado á Usuários e Agentes | Desenvolver um sistema que permita categorizar os usuários comuns e os Agentes por meio de niveis de permissão, onde o maior pode ver os menores, mas eles não podem visualizar/ conversar com algo superior á seu nivel de permissão.|
-| 9 | Scrum-36 | BCK_8 | (Backend) Desenvolver a base do Agente, para que haja o Agente Default que será utilizado em todo o sistema. | Desenvolver uma base do Agnete, sem nenhum conhecimento prévio, porém com capacidade de manter uma conversa e forma amigavel com o usuário (meta realista: 5 perguntas e repostas; meta ideal: 10 perguntas e respostas). |
-| 10 | Scrum-37 | BCK_8 | (Backend) Desenvolver Sistema de Nutrição dos Agentes, permitindo-os receber conteúdo personalizado atravez de um tratamento prévio dos dados. | Desenvolver sistema que permita a evolução da IA, permitindo adicionar novas perguntas, respostas, e conteúdo com um todo, sem perder a sua base no processo. |
+| 9 | Scrum-36 | BCK_8 | (Backend) Enfileiramento de Mensagens no Redis. | Reformular parte do Chat do backend, permitindo o enfileiramento de mensagens e seu armazenamento no Redis |
+| 10 | Scrum-37 | BCK_8 | (Backend) Aprimoramento do Chat, implementando os Agentes. | Alterar o sistema de chat, implementando os Agentes na geração de respostas. |
 | 11 | Scrum-38 | BCK_9 | (Backend) Desenvolver sistema de Gerenciamento dos Agentes | Desenvolver sistema que o usuário Curador usará para criar, deletar, alterar, ver e definir o conteúdo dos Agentes. |
-| 12 | Scrum-39 | BCK_8 | (Backend) Treinar a IA para que ela posa implementar conteúdos novos em susas respostas | Treinar e aprimorar a capacidade do Agente Default receber dados e inseri-los como respostas, aplicando assim o conhecimento aprendido. |
+| 12 | Scrum-39 | BCK_8 | (Backend) Desenvolvimento e Aplicação da LLM no Sistema. | Desenvolver e aplicar nos agentes a LLM. Inserindo as IAs no sistema. |
 
 
 <br>
