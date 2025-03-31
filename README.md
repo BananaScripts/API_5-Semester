@@ -224,8 +224,8 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 | 6 | Scrum-33 | BCK_4 | (Frontend) Aprimorar o chat, implementando os Agentes, permitindo a conversa do sistema com o usuário. | Implementar sistema de envio e recebimento de mensagens no frontend, mantendo a consistencia entre os agentes e usuários. |
 | 7 | Scrum-34 | BCK_7 | (Frontend) Implementar o Sistema de Gerenciador dos Curadores em sua Interface. | Implementar sistema que permite gerenciar (criar, editar, alterar, ver e configurar o conteudo) os Agentes, além de também possuir a interface gerenciadora de permissões. |
 | 8 | Scrum-35 | BCK_9 | (Backend) Desenvolvimento de Sistema de Permissões relacionado á Usuários e Agentes | Desenvolver um sistema que permita categorizar os usuários comuns e os Agentes por meio de niveis de permissão, onde o maior pode ver os menores, mas eles não podem visualizar/ conversar com algo superior á seu nivel de permissão.|
-| 9 | Scrum-36 | BCK_8 | (Backend) Enfileiramento de Mensagens no Redis. | Reformular parte do Chat do backend, permitindo o enfileiramento de mensagens e seu armazenamento no Redis |
-| 10 | Scrum-37 | BCK_8 | (Backend) Aprimoramento do Chat, implementando os Agentes. | Alterar o sistema de chat, implementando os Agentes na geração de respostas. |
+| 9 | Scrum-36 | BCK_7 | (Backend) Enfileiramento de Mensagens no Redis. | Implementar em conjunto com os Agentes, o enfileiramento de mensagens, via o Redis, permitindo o recebimento de mensagens na ordem correta |
+| 10 | Scrum-37 | BCK_8 | (Backend) Implemtnação dos Agentes no Chat. | Alterar o sistema de chat, implementando os Agentes na geração de respostas. |
 | 11 | Scrum-38 | BCK_9 | (Backend) Desenvolver sistema de Gerenciamento dos Agentes | Desenvolver sistema que o usuário Curador usará para criar, deletar, alterar, ver e definir o conteúdo dos Agentes. |
 | 12 | Scrum-39 | BCK_8 | (Backend) Desenvolvimento e Aplicação da LLM no Sistema. | Desenvolver e aplicar nos agentes a LLM. Inserindo as IAs no sistema. |
 
