@@ -233,7 +233,7 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 
 ### Sprint 03 | 05.05 - 25.05
 
-ID | ID do Jira | ID do Backlog | Titulo | Descrição  
+**ID** | **ID do Jira** | **ID do Backlog** | **Titulo** | **Descrição**  
 ---|---|---|---|---
 1 | Scrum-40 | BCK_11 | (Frontend) Desenvolvimento do Dashboard Administrativo | Desenvolver interface de dashboard com gráficos e estatísticas de uso dos agentes (interações por período, agentes mais acessados, etc).
 2 | Scrum-41 | BCK_11 | (Backend) Implementação de Endpoints para Coleta de Dados do Dashboard | Criar endpoints para fornecer dados estatísticos necessários para o dashboard (métricas de uso, histórico de conversas, etc).
@@ -247,6 +247,8 @@ ID | ID do Jira | ID do Backlog | Titulo | Descrição
 10 | Scrum-49 | BCK_7 | (Frontend) Ajustes na Tela de Cadastro/Edição de Agentes e Implementação de Anexos | Atualizar a interface de criação/edição de agentes para incluir upload de arquivos e melhorar a usabilidade do formulário.
 11 | Scrum-50 | BCK_3 | (Backend) Implementação de Testes de Integração | Desenvolver testes de integração para validar funcionalidades críticas (autenticação, permissões, chat) e garantir estabilidade do sistema.
 12 | Scrum-51 | BCK_3 | (DevOps) Integração de Testes Automatizados no Pipeline CI/CD | Adicionar etapa de execução de testes automatizados (frontend e backend) no pipeline CI/CD para validação pré-deploy.
+13 | Scrum-52 | BCK_8 | (Backend) Migração para o Google Gemini como Provedor de IA | Substituir a LLM atual (DeepSeek) pelo Gemini, adaptando processamento de prompts e integracao com API.
+14 | Scrum-53 | BCK_7 | (Frontend) Correção da interface de cadastro/Edição de Agentes | Ajustar formulários com campos obrigatórios, validação e organizacao intuitiva dos inputs.
 
 <br>
 
