@@ -229,6 +229,24 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 | 11 | Scrum-38 | BCK_9 | (Backend) Desenvolver sistema de Gerenciamento dos Agentes | Desenvolver sistema que o usuário Curador usará para criar, deletar, alterar, ver e definir o conteúdo dos Agentes. |
 | 12 | Scrum-39 | BCK_8 | (Backend) Desenvolvimento e Aplicação da LLM no Sistema. | Desenvolver e aplicar nos agentes a LLM. Inserindo as IAs no sistema. |
 
+<br/>
+
+### Sprint 03 | 05.05 - 25.05
+
+ID | ID do Jira | ID do Backlog | Titulo | Descrição  
+---|---|---|---|---
+1 | Scrum-40 | BCK_11 | (Frontend) Desenvolvimento do Dashboard Administrativo | Desenvolver interface de dashboard com gráficos e estatísticas de uso dos agentes (interações por período, agentes mais acessados, etc).
+2 | Scrum-41 | BCK_11 | (Backend) Implementação de Endpoints para Coleta de Dados do Dashboard | Criar endpoints para fornecer dados estatísticos necessários para o dashboard (métricas de uso, histórico de conversas, etc).
+3 | Scrum-42 | BCK_10 | (Frontend) Implementação da Interface de Histórico de Chats | Desenvolver interface que permita visualizar o histórico completo de conversas do usuário com filtros por data e agente.
+4 | Scrum-43 | BCK_10 | (Backend) Integração do Redis para Armazenamento de Histórico | Implementar sistema de persistência do histórico de conversas utilizando Redis e integração com o banco principal.
+5 | Scrum-44 | BCK_9 | (Backend) Refatoração do Sistema de Permissões | Aprimorar a arquitetura de permissões com hierarquia flexível, logs de alterações e integração com novos módulos.
+6 | Scrum-45 | BCK_2 | (DevOps) Implementação de Deploy na AWS | Configurar ambiente na AWS (EC2, RDS, Elasticache) e realizar deploy das aplicações com balanceamento de carga.
+7 | Scrum-46 | BCK_3 | (DevOps) Configuração de Pipeline CI/CD | Implementar pipeline automatizado com testes, build e deploy utilizando GitHub Actions e Docker.
+8 | Scrum-47 | BCK_9 | (Frontend) Implementação do Sistema de Permissões no Frontend | Adaptar a interface para refletir as permissões do usuário, bloqueando acesso a agentes não autorizados e garantindo sincronia com as regras do backend.
+9 | Scrum-48 | BCK_8 | (Backend) Aprimoramento do Sistema de Configuração de Agentes com Suporte a Arquivos | Permitir upload de arquivos (PDFs, documentos) durante a configuração dos agentes para enriquecer o conhecimento da IA.
+10 | Scrum-49 | BCK_7 | (Frontend) Ajustes na Tela de Cadastro/Edição de Agentes e Implementação de Anexos | Atualizar a interface de criação/edição de agentes para incluir upload de arquivos e melhorar a usabilidade do formulário.
+11 | Scrum-50 | BCK_3 | (Backend) Implementação de Testes de Integração | Desenvolver testes de integração para validar funcionalidades críticas (autenticação, permissões, chat) e garantir estabilidade do sistema.
+12 | Scrum-51 | BCK_3 | (DevOps) Integração de Testes Automatizados no Pipeline CI/CD | Adicionar etapa de execução de testes automatizados (frontend e backend) no pipeline CI/CD para validação pré-deploy.
 
 <br>
 
