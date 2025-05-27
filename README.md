@@ -51,7 +51,7 @@ eficiente dos agentes e permissões.
 <p>Link do repositório do Back-end: <a href="https://github.com/BananaScripts/API_5-Semester-Backend">https://github.com/BananaScripts/API_5-Semester-Backend</a></p>
 
 
- #### Status do projeto: Em Desenvolvimento
+ #### Status do projeto: Em Desenvolvimento (Logo teremos um container do docker com o projeto)
 
  <br>
  
@@ -95,9 +95,9 @@ Período | Data | Status  |
 Kickoff | 25.02.2025 - 07.03.2025 | ✅ |
 Sprint 01 | 10.03.2025 - 30.03.2025 | ✅ |
 Sprint Review | 31.03.2025 - 04.04.2025 | ✅ |
-Sprint 02 | 07.04.2025 - 27.04.2025 | Em Andamento |
-Sprint Review | 28.04.2025 - 02.05.2025 | Não Iniciado |
-Sprint 03 | 05.05.2025 - 25.05.2025 | Não Iniciado |
+Sprint 02 | 07.04.2025 - 27.04.2025 | ✅ |
+Sprint Review | 28.04.2025 - 02.05.2025 | ✅ |
+Sprint 03 | 05.05.2025 - 25.05.2025 | ✅ |
 Feira de Soluções | 29.05.2025 | Não Iniciado |
 
 
