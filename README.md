@@ -106,7 +106,7 @@ Sprint Review | 31.03.2025 - 04.04.2025 | ✅ |
 Sprint 02 | 07.04.2025 - 27.04.2025 | ✅ |
 Sprint Review | 28.04.2025 - 02.05.2025 | ✅ |
 Sprint 03 | 05.05.2025 - 25.05.2025 | ✅ |
-Feira de Soluções | 29.05.2025 | Não Iniciado |
+Feira de Soluções | 17.05.2025 | Não Iniciado |
 
 
 ## MVPs (Minimum Viable Product)
@@ -287,7 +287,8 @@ Desenvolviemnto dos Dashboards e do Histórico, além do Aprimoramento dos Agent
 <br>
 
 <h4> Rotas </h4>
-Todas as rotas estão documentadas no swagger, aqui está o link:
+Todas as rotas estão documentadas no swagger, aqui está o link: localhost:<port>/swagger
+
 
 <br>
 
