@@ -59,7 +59,7 @@ eficiente dos agentes e permissões.
 <p>Link do repositório do Back-end: <a href="https://github.com/BananaScripts/API_5-Semester-Backend">https://github.com/BananaScripts/API_5-Semester-Backend</a></p>
 
 
- #### Status do projeto: Em Desenvolvimento (Logo teremos um container do docker com o projeto)
+ #### Status do projeto: Finalizado
 
  <br>
  
